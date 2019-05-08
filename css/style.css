@@ -46,6 +46,7 @@ h3 {
 }
 
 .location {
+  box-sizing: border-box;
   background-color: #d9d9d9;
   padding: 3%;
   border: 1px solid #000000;
@@ -56,6 +57,7 @@ h3 {
 
 }
 .restaurant-list {
+  box-sizing: border-box;
   background-color: #d9d9d9;
   padding-top: 50px;
 
